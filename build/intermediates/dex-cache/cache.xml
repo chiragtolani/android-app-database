@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/2b9c3eb4563f4e8609e0fa0c49b2ad2dcb29ed8d/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cad8ae16689194cccfbd80cad87cbeb257c3520a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/fbd723133f5dcf05374138948f5063b92c26d2f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3f63fb11d2ef3ff31bbadeee2d1c82087461b80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/3ab6340e7420edc924d93c7e3519d46e7bc5af78/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_0a436dc7ff454a82259ec1fcae40cc7377d987d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/f6acd565b46f03e91d2d89434dfb58b525ce38ca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b01376c8d5c925bbd0823596e17011ed8c2c905/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_e7cd3494a78fba7bef2b1b40ebc9c1f4400636ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c48df61cf5445bbe5c975fb7e9fbb97d5e06f53">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dc218105c12ccf7b52ae28d03dc8c15782131c6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/2b9c3eb4563f4e8609e0fa0c49b2ad2dcb29ed8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_51c6850c81f4637c8202d63278c0bc7ad01b0ca8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_05722dd1ca0a8f4739e6e90d2dcd564baf1d46f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/f9932662066b6cbf19b8d07905b70c44c8b17427/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_103897cc6c90b0e0ba69c0bb689d267c57ed7ecf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/1c4ec11246e3786c5810a116117d7de958f5cfd1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac5a4be566188799ce0a5408914111f5059d51e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/c4c7f49fbdc2c94b2cb49351f80e5190e75260c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f78987ed5438fbd6ca1d16e0bbe2aeaabbebf32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/0f8433567b6be307862fcda9457cf89c5d8134c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9ee3c439f25ff2e8871bda048c79dff34552dca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/7f24d1c05b945d1bad4e83efafacf963b60b3446/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4441558442fdf8d433f699a16a1b88ec9592f12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/071db960756ab165ddc952a83774ec7181d03834/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7cd6b992a9808449e3572fbf04de3e7d1abdadb8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/333537b9778eac14a777fba69ed8b2e0923aad9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11a781ebaa0fa1929cc3c20dbedc61322372e94b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/f6acd565b46f03e91d2d89434dfb58b525ce38ca/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_43e39df66a4ac371fcd1c4a482ca0faff185120a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/0f8433567b6be307862fcda9457cf89c5d8134c7/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d235276276b6a703615d923b2e59db943592271a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/7f24d1c05b945d1bad4e83efafacf963b60b3446/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_54475df55d1ab25d4f7271cc83d3295ba6bbd353/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/3a668a7ab214618c3d372c792279030f02d6788d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ec4ee95aaac65deb68547d8d7188f4f651a70e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/afb1b23939ba8401fea2c08687f6416c178814ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_805567eac35b35d088e2268e30f15198a822efce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chiragtolani/.android/build-cache/3ab6340e7420edc924d93c7e3519d46e7bc5af78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/chiragtolani/Desktop/MyFirstApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cecbf3b0e1ecd69d92bbb4c8432456364822dea/classes.dex" />
+    </item>
+
+</items>
